@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Seraphina Screen Shot][product-screenshot]](https://powerliftml.herokuapp.com/)
+[![PowerliftML Screen Shot][product-screenshot]](https://powerliftml.herokuapp.com/)
 
 PowerliftML was designed for individuals to gauge how strong they are in comparison to competitive lifters. That goal is achieved through the creation and combination of two machine learning models: a linear regression model and a support vector regression model. The repository includes a mobile-responsive Python Flask application ready to be deployed.
 
