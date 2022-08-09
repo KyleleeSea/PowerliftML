@@ -105,7 +105,7 @@ As the Linear Regression model predicts an exactly linear relationship, its shor
 
 Twitter - [@KyleleeSea](https://twitter.com/KyleleeSea)
 
-Project Link: [https://github.com/KyleleeSea/PowerliftML](https://github.com/KyleleeSea/Seraphina)
+Project Link: [https://github.com/KyleleeSea/PowerliftML](https://github.com/KyleleeSea/PowerliftML/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [product-screenshot]: https://i.imgur.com/lTp5EMK.png
