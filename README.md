@@ -12,8 +12,6 @@
       A machine learning model predicting how you'd place at local level U.S. powerlifting competitions
     </h4>
     <br />
-    <a href="https://powerliftml.herokuapp.com/">View Demo</a>
-    ·
     <a href="https://powerliftml.herokuapp.com/documentation/">Documentation</a>
     ·
     <a href="https://github.com/KyleleeSea/Seraphina/issues">Report Bug</a>
@@ -38,11 +36,6 @@ Please view in-depth documentation and graphs <a href="https://powerliftml.herok
 * [![Numpy][numpy.org]][numpy-url]
 * [![Pandas][pandas.org]][pandas-url]
 * [![Heroku][heroku.com]][heroku-url]
-
-## Live Demo
-
-Please view the full demo of PowerliftML here: <a href="https://powerliftml.herokuapp.com/">PowerliftML.herokuapp.com</a>
-Deployed utilizing Heroku. 
 
 ## Local Copy
 You may run this project locally by following these steps:
