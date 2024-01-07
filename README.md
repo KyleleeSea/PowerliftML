@@ -12,7 +12,7 @@
       A machine learning model predicting how you'd place at local level U.S. powerlifting competitions
     </h4>
     <br />
-    <a href="https://powerliftml.herokuapp.com/documentation/">Documentation</a>
+    <a href="https://drive.google.com/file/d/1ilsf2h9l5eTmZWlQNEDtgy9uRGaz-Iza/view?usp=sharing">Documentation</a>
     ·
     <a href="https://github.com/KyleleeSea/Seraphina/issues">Report Bug</a>
   </p>
@@ -27,7 +27,7 @@ PowerliftML was designed for individuals to gauge how strong they are in compari
 
 Users input their gender, bodyweight, and compound lift maxes, and PowerliftML returns a range of their most statistically probable placing. 
 
-Please view in-depth documentation and graphs <a href="https://powerliftml.herokuapp.com/documentation" target="_blank"> here.</a>
+Please view in-depth documentation and graphs <a href="https://drive.google.com/file/d/1ilsf2h9l5eTmZWlQNEDtgy9uRGaz-Iza/view?usp=sharing" target="_blank"> here.</a>
 
 ### Built With
 
